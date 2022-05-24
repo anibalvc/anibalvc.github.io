@@ -1,4 +1,4 @@
-{
+[{
   "usuarios": [
     {
       "id": 1,
@@ -44,4 +44,4 @@
   "profile": {
     "name": "typicode"
   }
-}
+}]
