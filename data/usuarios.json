@@ -1,5 +1,5 @@
-[{
-  "usuarios": [
+
+[
     {
       "id": 1,
       "usuario": "Miguel",
@@ -39,9 +39,4 @@
     {
       "id": 7
     }
-  ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
-}]
+  ]
