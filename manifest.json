@@ -1,6 +1,6 @@
 {
-    "name": "control_bienes",
-    "short_name": "control_bienes",
+    "name": "inea",
+    "short_name": "inea",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

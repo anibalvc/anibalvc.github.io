@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fc21aac8b4f893b98affbb973ed05520",
+  "assets/AssetManifest.json": "1b03029d0c18d55120ae8c6a9dab473b",
 "assets/assets/img/banco.svg": "b6c9caea6c95c03996818a5e9df6aba3",
 "assets/assets/img/Contacts17.png": "b3c94b455e6cf89a9ed6769061ee6feb",
 "assets/assets/img/Email-1.png": "963d00d660456a1483094ea104408f5e",
@@ -14,37 +14,37 @@ const RESOURCES = {
 "assets/assets/img/Instagram-17.png": "ed0e62496826e59786bcd0fc345bc3f3",
 "assets/assets/img/list.svg": "af30d4ca41c8d1136f8f2546405b72ee",
 "assets/assets/img/logo-confisa.png": "bb3a3699287ced643d9ad3233dd1c0d0",
+"assets/assets/img/logo.png": "dabf80e10475d0b13752382dc32060a2",
 "assets/assets/img/menu.svg": "4a1bade90e337359b5ab7dcf15c9eb7e",
 "assets/assets/img/no-avatar.png": "14f5291cb5600ec05e118161860b3a06",
 "assets/assets/img/notification.svg": "016402bbd1b9a4ed0f397e3f2a221bb5",
 "assets/assets/img/PlantillaAppSTasasiones_V5-82.svg": "fecf273d83ae44526d31943652d43e71",
 "assets/assets/img/settings.svg": "4c0e7264be4736325178d5b44b805971",
-"assets/assets/img/sistema.jpg": "c1bac07d5bf8d6904ff87f5ef0aef1be",
 "assets/FontManifest.json": "e25c505507e2d3ccf9188f95147c58df",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "1e4f12bd806f2964c9c9c09be4ebf75d",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/NOTICES": "7f3ddd53f412440cc1747ade48cebb48",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
 "assets/packages/line_icons/lib/assets/fonts/LineIcons.ttf": "23621397bc1906a79180a918e98f35b2",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "92f07bc90fa031a751a8dc96170487c8",
-"/": "92f07bc90fa031a751a8dc96170487c8",
-"main.dart.js": "15b5e74ba62b294ff719b7103410a6df",
-"manifest.json": "dfc1d2fed44af97d989734f7a71240ac",
-"version.json": "f4ef94bb8312fd4dc924a6cbf15c8173"
+"index.html": "68149e1d18f13445171d4c11f0af342f",
+"/": "68149e1d18f13445171d4c11f0af342f",
+"main.dart.js": "f212de0144b955f32e9f48119ba833eb",
+"manifest.json": "e73548a1859c7f44714894a463d01782",
+"version.json": "0f53053b66c25cec4785f4ecf513460e"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -52,7 +52,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -151,9 +150,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
