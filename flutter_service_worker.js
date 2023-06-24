@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "96d5fda2a1142e8930c9f86728ba204b",
+  "assets/AssetManifest.json": "1b03029d0c18d55120ae8c6a9dab473b",
 "assets/assets/img/banco.svg": "b6c9caea6c95c03996818a5e9df6aba3",
 "assets/assets/img/Contacts17.png": "b3c94b455e6cf89a9ed6769061ee6feb",
 "assets/assets/img/Email-1.png": "963d00d660456a1483094ea104408f5e",
@@ -14,6 +14,7 @@ const RESOURCES = {
 "assets/assets/img/Instagram-17.png": "ed0e62496826e59786bcd0fc345bc3f3",
 "assets/assets/img/list.svg": "af30d4ca41c8d1136f8f2546405b72ee",
 "assets/assets/img/logo-confisa.png": "bb3a3699287ced643d9ad3233dd1c0d0",
+"assets/assets/img/logo.png": "dabf80e10475d0b13752382dc32060a2",
 "assets/assets/img/menu.svg": "4a1bade90e337359b5ab7dcf15c9eb7e",
 "assets/assets/img/no-avatar.png": "14f5291cb5600ec05e118161860b3a06",
 "assets/assets/img/notification.svg": "016402bbd1b9a4ed0f397e3f2a221bb5",
@@ -30,14 +31,10 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
 "assets/packages/line_icons/lib/assets/fonts/LineIcons.ttf": "23621397bc1906a79180a918e98f35b2",
 "favicon.png": "dabf80e10475d0b13752382dc32060a2",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "605ec458f5e536bc9411fc2b8fabf01f",
-"/": "605ec458f5e536bc9411fc2b8fabf01f",
+"index.html": "4d022f0df63b0ca7498618becab39f35",
+"/": "4d022f0df63b0ca7498618becab39f35",
 "main.dart.js": "f212de0144b955f32e9f48119ba833eb",
-"manifest.json": "e73548a1859c7f44714894a463d01782",
+"manifest.json": "8d21d847d67101c72c4cd3416b4a4601",
 "version.json": "0f53053b66c25cec4785f4ecf513460e"
 };
 
