@@ -86638,7 +86638,11 @@ return A.Q(p.AT(q.cx.b),$async$cj)
 case 13:l=c
 if(l instanceof A.bD){p=n.a(l.a)
 q.db=p
-for(p=p.a,n=p.length,k=0;k<p.length;p.length===n||(0,A.M)(p),++k){j=p[k]
+p=p.a
+p=A.a(p.slice(0),A.a2(p))
+n=p.length
+k=0
+for(;k<p.length;p.length===n||(0,A.M)(p),++k){j=p[k]
 B.b.E(q.db.a,j)}q.id=q.db.a
 q.qi()
 q.mC()
