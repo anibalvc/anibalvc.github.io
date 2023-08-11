@@ -24375,7 +24375,7 @@ return A.z(null,r)}})
 return A.A($async$aht,r)},
 a6J(){var s=0,r=A.B(t.H),q,p,o,n,m
 var $async$a6J=A.x(function(a,b){if(a===1)return A.y(b,r)
-while(true)switch(s){case 0:p=A.aJI(A.aJ2("https://apksailsafe.000webhostapp.com/index.php"))
+while(true)switch(s){case 0:p=A.aJI(A.aJ2("https://websailve.000webhostapp.com/index.php"))
 o=A.aJI(A.aJ2("https://api-bienes-anibalvc.koyeb.app/"))
 n=A.nn(null)
 m=A.aKf(p,n,!0)
